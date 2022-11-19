@@ -5,6 +5,7 @@ namespace MyProgram
     public class Program {
         public static void Main(string[] args) {
             System.Console.WriteLine("I'm learning git!");
+            System.Console.WriteLine("This is the second commit!");
         }
     }
 }
