@@ -8,6 +8,8 @@ namespace MyProgram
             System.Console.WriteLine("This is the second commit!");
             System.Console.WriteLine("Some commit!");
             System.Console.WriteLine("I'm the second person!");
+
+            System.Console.WriteLine("I want to delete this!");
         }
     }
 }
